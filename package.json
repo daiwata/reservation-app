@@ -2,8 +2,8 @@
   "name": "reservation-app",
   "version": "0.0.0",
   "engine": {
-    "node": "13.7.0",
-    "npm": "6.13.6"
+    "node": "12.16.1",
+    "npm": "6.13.4"
   },
   "scripts": {
     "ng": "ng",
